@@ -1,0 +1,12 @@
+/Library
+/Temp
+/obj
+/ProjectSettings
+
+.vs
+
+*.userprefs
+*.unityproj
+*.csproj
+*.sln
+*.suo
